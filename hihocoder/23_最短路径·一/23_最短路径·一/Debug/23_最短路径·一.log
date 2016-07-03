@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/4/23 19:36:27。
+     1>项目“C:\Users\刘松翔\documents\visual studio 2013\Projects\23_最短路径·一\23_最短路径·一\23_最短路径·一.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\刘松翔\documents\visual studio 2013\projects\23_最短路径·一\23_最短路径·一\源.cpp(31): error C2065: “map”: 未声明的标识符
+     1>c:\users\刘松翔\documents\visual studio 2013\projects\23_最短路径·一\23_最短路径·一\源.cpp(31): error C2065: “string”: 未声明的标识符
+     1>c:\users\刘松翔\documents\visual studio 2013\projects\23_最短路径·一\23_最短路径·一\源.cpp(31): error C2062: 意外的类型“int”
+     1>已完成生成项目“C:\Users\刘松翔\documents\visual studio 2013\Projects\23_最短路径·一\23_最短路径·一\23_最短路径·一.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.39
